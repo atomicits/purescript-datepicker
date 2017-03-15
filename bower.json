@@ -1,0 +1,31 @@
+{
+    "name": "purescript-datepicker",
+    "description": " datepicker for mobile",
+    "keywords": [
+        "purescript",
+        "react-native",
+        "react"
+    ],
+    "version": "0.0.1",
+    "moduleType": [
+        "node"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-eff": "^2.0.0",
+        "purescript-profunctor": "^2.0.0",
+        "purescript-react": "^2.0.0",
+        "purescript-eff-functions": "^2.0.0",
+        "purescript-datetime": "^2.1.0"
+    },
+    "authors": [
+        "Sudhir Kumar <s@atomicits.com>",
+        "Vishnu Prasad <vishnu@atomicits.com>",
+        "Sathish Kumar <sathish@atomicits.com>"
+    ]
+}
