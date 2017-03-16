@@ -1,6 +1,6 @@
 {
-    "name": "purescript-datepicker",
-    "description": " datepicker for mobile",
+    "name": "purescript-rnx-datepicker",
+    "description": " purescript wrapper for datepicker for mobile",
     "keywords": [
         "purescript",
         "react-native",
